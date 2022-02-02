@@ -1,4 +1,4 @@
-# Mass Mobilization  
+# Predicting violent state response to mass mobilization
 This was the final project for the "Scientific Python" course at the Central European University. The aim of this project was to explore the "Mass Mobilization Data" in order to find patterns of use of violence in state response to mass mobilizations. After the data cleaning and the initial exploration with descriptive statistics, logistic regression was used to predict the use of violence by the state. 
 
 ## Dataset
